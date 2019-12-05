@@ -1,6 +1,6 @@
 # Game server data
 
-These files are used to generate the JSON data served by https://data.airmash.online/games.
+These files are used to generate the JSON data served by https://data.airmash.online/games and https://starma.sh/games.
 
 One record per line, with fields separated by the `|` character.
 
@@ -10,7 +10,7 @@ One record per line, with fields separated by the `|` character.
 | - | :---------- | :------------------ | :----------------------------------------------------------------- |
 | 1 |             | `eu`                | Region ID                                                          |
 | 2 | `type`      | `1`                 | Game type                                                          |
-| 3 | `id`        | `ffa1`              | Room ID, must be unique, used with region for invite link fragment |
+| 3 | `id`        | `ffa1`              | Room ID, must be unique per region, used for invite link fragment  |
 | 4 | `name`      | `Free For All #1`   | Long name, displayed in menu choice                                |
 | 5 | `nameShort` | `FFA #1`            | Short name, displayed when menu drop down expands                  |
 | 6 | `host`      | `eu.airmash.online` | Hostname                                                           |
