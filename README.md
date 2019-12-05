@@ -1,10 +1,10 @@
 # Game server data
 
-These files are used to generate the JSON data served by https://data.airmash.online/games and https://starma.sh/games.
+These files are used to generate the JSON data served by [https://data.airmash.online/games](https://data.airmash.online/games) and [https://starma.sh/games](https://starma.sh/games).
 
 One record per line, with fields separated by the `|` character.
 
-## games.txt
+## [games.txt](games.txt)
 
 | # | Name        | Example             | Description                                                        |
 | - | :---------- | :------------------ | :----------------------------------------------------------------- |
@@ -35,7 +35,7 @@ eu|1|ffa1|Free For All #1|FFA #1|eu.airmash.online|ffa1
 | `3`  | Battle Royale    |
 | `4`  | Development      |
 
-## regions.txt
+## [regions.txt](regions.txt)
 
 | # | Name   | Example  | Description |
 | - | :----- | :------- | :---------- |
