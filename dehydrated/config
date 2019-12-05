@@ -1,3 +1,0 @@
-HOOK="/opt/dehydrated/hook.sh"
-PRIVATE_KEY_RENEW="no"
-CHALLENGETYPE="dns-01"
