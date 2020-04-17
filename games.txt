@@ -1,6 +1,7 @@
 eu|1|ffa1|Free For All #1|FFA #1|eu.airmash.online|ffa1
 eu|1|ffa2|Free For All #2|FFA #2|eu.airmash.online|ffa2
 eu|2|ctf1|Capture The Flag #1|CTF #1|lags.win|ctf
+eu|2|ctf2|Capture The Flag #2|CTF #2 (dev)|dev.airbattle.xyz|ctf
 eu|3|btr1|Battle Royale #1|BTR #1|eu.airmash.online|btr1
 us|1|ffa1|Free For All #1|FFA #1|game.airmash.steamroller.tk|ffa
 us|1|ffa2|Free For All #2|FFA #2|airmash.trackjunkies.org|ffa1
