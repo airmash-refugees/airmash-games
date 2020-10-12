@@ -2,6 +2,8 @@ eu|1|ffa1|Free For All #1|FFA #1|eu.airmash.online|ffa
 eu|2|ctf1|Capture The Flag #1|CTF #1|dev.airbattle.xyz|ctf
 eu|3|btr1|Battle Royale #1|BTR #1|eu.airmash.online|btr
 us|1|ffa1|Free For All #1|FFA #1|game.airmash.cc|ffa
+us|1|ffa2|Free For All #2|FFA #2|ffa.herrmash.com|ffa
 us|2|ctf1|Capture The Flag #1|CTF #1|game.airmash.cc|ctf
+us|2|ctf2|Capture The Flag #2|CTF #2|ctf.herrmash.com|ctf
 us|3|btr1|Battle Royale #1|BTR #1|us.airmash.online|btr
 us|4|dev|Test Server|Test Server|game.airmash.cc|dev
