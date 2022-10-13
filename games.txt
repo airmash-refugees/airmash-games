@@ -7,4 +7,4 @@ us|2|ctf1|Capture The Flag #1|CTF #1|game.airmash.cc|ctf
 us|2|ctf2|Capture The Flag #2|CTF #2|ctf.herrmash.com|ctf
 us|3|btr1|Battle Royale #1|BTR #1|us.airmash.online|btr
 us|4|dev|Test Server|Test Server|game.airmash.cc|dev
-us|5|box1|Box Experiments #1|BOX #1|ash1.box.populi.ml|ffa
+us|4|box1|Box Experiments #1|BOX #1|ash1.box.populi.ml|ffa
