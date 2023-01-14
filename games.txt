@@ -1,5 +1,4 @@
 eu|1|ffa1|Free For All #1|FFA #1|eu.airmash.online|ffa 
-eu|1|wb-ffa|FFA VCWB|FFA VC-WB|ffa.airmash.click|
 eu|3|btr1|Battle Royale #1|BTR #1|eu.airmash.online|btr
 eu|4|box1|Box Experiments #1|BOX #1|lon1.box.populi.ml|ffa
 us|1|ffa2|Free For All #2|FFA #2|ffa.herrmash.com|ffa
