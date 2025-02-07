@@ -1,1 +1,3 @@
-
+eu|1|ffa1|Free For All #1|FFA #1|eu.airmash.xyz|ffa
+eu|3|btr1|Battle Royale #1|BTR #1|eu.airmash.xyz|btr
+us|3|btr1|Battle Royale #1|BTR #1|btr.airmash.xyz|btr
