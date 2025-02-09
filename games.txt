@@ -1,1 +1,6 @@
-
+eu|1|ffa1|GO TO AIRMASH.ROCKS|GO TO AIRMASH.ROCKS|eu.airmash.xyz|goto
+eu|2|ctf1|GO TO AIRMASH.ROCKS|GO TO AIRMASH.ROCKS|eu.airmash.xyz|goto
+eu|3|btr1|GO TO AIRMASH.ROCKS|GO TO AIRMASH.ROCKS|eu.airmash.xyz|goto
+us|1|ffa1|GO TO AIRMASH.ROCKS|GO TO AIRMASH.ROCKS|eu.airmash.xyz|goto
+us|2|ctf1|GO TO AIRMASH.ROCKS|GO TO AIRMASH.ROCKS|eu.airmash.xyz|goto
+us|3|btr1|GO TO AIRMASH.ROCKS|GO TO AIRMASH.ROCKS|eu.airmash.xyz|goto
