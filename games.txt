@@ -1,6 +1,5 @@
-eu|1|ffa0|GO TO AIRMASH.ROCKS|GO TO AIRMASH.ROCKS|eu.airmash.xyz|goto
-eu|2|ctf1|GO TO AIRMASH.ROCKS|GO TO AIRMASH.ROCKS|eu.airmash.xyz|goto
-eu|3|btr0|GO TO AIRMASH.ROCKS|GO TO AIRMASH.ROCKS|eu.airmash.xyz|goto
-us|1|ffa1|GO TO AIRMASH.ROCKS|GO TO AIRMASH.ROCKS|eu.airmash.xyz|goto
-us|2|ctf1|GO TO AIRMASH.ROCKS|GO TO AIRMASH.ROCKS|eu.airmash.xyz|goto
-us|3|btr0|GO TO AIRMASH.ROCKS|GO TO AIRMASH.ROCKS|eu.airmash.xyz|goto
+eu|1|ffa1|Free For All #1|FFA #1|eu-ffa.mash-host.com|ffa
+eu|3|btr1|Battle Royale #1|BTR #1|eu-btr.mash-host.com|btr
+us|1|ffa1|Free For All #1|FFA #1|us-ffa.mash-host.com|ffa
+us|2|ctf1|Capture The Flag #1|CTF #1|us-ctf.mash-host.com|ctf
+us|3|btr1|Battle Royale #1|BTR #1|us-btr.mash-host.com|btr
